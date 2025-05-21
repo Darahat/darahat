@@ -8,9 +8,37 @@
   <a href="mailto:darahat42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://stackoverflow.com/users/3424210">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
   <a href="https://github.com/Darahat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+---
+
+## 🛠 Core Competencies
+
+<div align="center">
+
+### Languages & Frameworks
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Databases & DevOps
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </div>
 
 ---
@@ -24,34 +52,13 @@ _Mymensingh, Bangladesh (On-site)_
 
 **Key Achievements:**
 
-- 🏗️ **Architected 10+ mission-critical systems** serving 20,000+ users including:
-  - **BAU eDiary** (Flutter mobile app for university operations)
-  - **Admission Systems** (MS, PhD, IADS processing 5,000+ applications annually)
-  - **Certificate Automation System** (Reduced processing time by 70%)
-  - **Central Lab Booking System** (Resource optimization platform)
-- 🔧 **Full-stack development** across web/mobile platforms using PHP/Laravel, Flutter, Vue.js
-- 🚀 **DevOps Implementation**: Containerized deployments with Docker, reducing server costs by 40%
-- 📊 **Data Systems**: Developed analytics dashboards for student data visualization
+- 🏗️ **Architected 10+ mission-critical systems** serving 20,000+ users
+- 🔧 **Full-stack development** across web/mobile platforms
+- 🚀 **DevOps Implementation**: Containerized deployments with Docker
+- 📊 **Data Systems**: Developed analytics dashboards for student data
 
 **Tech Stack:**  
-`Flutter` `Dart` `PHP` `Laravel` `Vue.js` `Docker` `REST API` `MySQL` `Oracle` `Tailwind CSS`
-
----
-
-### **Front-End Developer**
-
-[Funush Private Limited](https://www.funush.com) | Feb 2019 - Jul 2019  
-_Dhaka, Bangladesh (On-site)_
-
-**Key Contributions:**
-
-- 🎨 **Led frontend development** for CareerKi.com (social impact platform combating extremism)
-- 📱 **Built PWA** achieving 85+ Lighthouse score for mobile performance
-- 🤝 **Collaborated cross-functionally** to implement complex user flows with Vuex state management
-- ⚡ **Optimized** application load time by 35% through code splitting
-
-**Tech Stack:**  
-`Vue.js` `Vuex` `Vue Router` `PWA` `MongoDB` `NoSQL`
+`Flutter` `Dart` `PHP` `Laravel` `Vue.js` `Docker` `REST API` `MySQL`
 
 ---
 
@@ -61,41 +68,11 @@ _Dhaka, Bangladesh (On-site)_
 
 - 📱 Campus management app with 5,000+ active users
 - 🔄 Real-time sync with university ERP systems
-- 🛠️ **Tech:** Flutter, Dart, REST API, Firebase
 
 ### **Certificate Automation System**
 
 - ⚡ Reduced certificate processing from 3 days to 2 hours
 - 🖨️ Automated PDF generation with dynamic templates
-- 🛠️ **Tech:** Laravel, DomPDF, MySQL
-
-### **Admission Processing Systems** (MS/PhD/IADS)
-
-- 📊 Processed 15,000+ applications with 100% data integrity
-- 📑 Automated document verification workflows
-- 🛠️ **Tech:** CodeIgniter, jQuery, Oracle
-
-### **CareerKi PWA**
-
-- 🌍 Social impact platform for youth career guidance
-- 📈 Achieved 60% user retention improvement
-- 🛠️ **Tech:** Vue.js, MongoDB, Firebase Auth
-
----
-
-## 🛠 Technical Arsenal
-
-**Frontend:**  
-`Vue.js` `Nuxt.js` `Flutter` `Dart` `Tailwind CSS` `Vuetify`
-
-**Backend:**  
-`PHP` `Laravel` `CodeIgniter` `Node.js` `REST API`
-
-**Blockchain:**  
-`Solidity` `Hardhat` `Ethers.js` `Web3.js`
-
-**DevOps & Databases:**  
-`Docker` `GitHub Actions` `MySQL` `Oracle` `MongoDB` `Firebase`
 
 ---
 
@@ -109,11 +86,11 @@ _Dhaka, Bangladesh (On-site)_
 
 ---
 
-## 📫 Let's Build Something Amazing
+## 📫 Let's Connect
 
-- 🔍 **Currently Exploring:** Advanced Web3 Development, Smart Contract Security
-- 💼 **Open To:** Remote opportunities, Contract work, Technical collaborations
-- 📧 **Reach Me:** darahat42@gmail.com | [LinkedIn](https://www.linkedin.com/in/darahat/)
+- 🔍 **Currently Exploring:** Web3 Development, Smart Contracts
+- 💼 **Open To:** Remote opportunities, Technical collaborations
+- 📧 **Reach Me:** darahat42@gmail.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darahat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
