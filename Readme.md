@@ -139,40 +139,30 @@
   </a>
   <!-- Animate.css -->
   <a href="https://animate.style/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="animatecss" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/64791939?s=200&v=4" alt="animatecss" width="40" height="40"/>
   </a>
-  <!-- Animate.js (Anime.js as close alternative) -->
-  <a href="https://animejs.com/" target="_blank">
-    <img src="https://animejs.com/documentation/assets/img/animejs-logo.svg" alt="animejs" width="40" height="40"/>
-  </a>
+  
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
   <!-- Ionic -->
   <a href="https://ionicframework.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
   </a>
-  <!-- Web3.js -->
-<a href="https://web3js.readthedocs.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/docs/assets/logo.svg" alt="web3js" width="40" height="40"/>
-</a>
 <!-- Ethers.js -->
 <a href="https://docs.ethers.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/assets/ethers-logo-light.svg" alt="ethers.js" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/18492273?s=200&v=4" alt="ethers.js" width="40" height="40"/>
 </a>
 <!-- Solidity -->
 <a href="https://soliditylang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="solidity" width="40" height="40"/>
 </a>
 <!-- Hardhat -->
 <a href="https://hardhat.org/" target="_blank">
-  <img src="https://hardhat.org/favicon-32x32.png" alt="hardhat" width="40" height="40"/>
+  <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="hardhat" width="40" height="40"/>
 </a>
-<!-- Blockchain (Generic Icon) -->
-<a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/825/825519.png" alt="blockchain" width="40" height="40"/>
-</a>
+ 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darahat&show_icons=true&locale=en&layout=compact" alt="darahat" /></p>
