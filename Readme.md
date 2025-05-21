@@ -160,7 +160,7 @@
 </a>
 <!-- Hardhat -->
 <a href="https://hardhat.org/" target="_blank">
-  <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="hardhat" width="40" height="40"/>
+  <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="hardhat" width="80" height="40"/>
 </a>
  
 </p>
