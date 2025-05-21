@@ -43,7 +43,10 @@
   </a>
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.codeigniter.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/44521256?s=200&v=4" alt="laravel" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
