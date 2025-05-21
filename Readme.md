@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Didarul Alam Rahat</h1>
-<h3 align="center">Full Stack Developer (Web2/Web3) | Flutter Specialist</h3>
+<h3 align="center">Senior Full Stack Developer | Web3 Enthusiast | Flutter Specialist</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/darahat/">
@@ -8,98 +8,112 @@
   <a href="mailto:darahat42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://x.com/darahat42">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://stackoverflow.com/users/3424210">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="https://github.com/Darahat">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
-### 🚀 Technical Profile
+## 🚀 Professional Experience
 
-**Full Stack Developer** with **7+ years** of experience building scalable web and mobile applications. Specializing in:
+### **Assistant Programmer**
 
-- **Web Development**: Vue/Nuxt, Laravel, PHP
-- **Mobile Development**: Flutter (Android/iOS)
-- **Blockchain**: Solidity, Smart Contracts, Hardhat
-- **DevOps**: Docker, CI/CD, Linux
+[Bangladesh Agricultural University](https://www.bau.edu.bd) | July 2019 - Present  
+_Mymensingh, Bangladesh (On-site)_
 
-**Currently Exploring**: Advanced Web3 Development, Smart Contract Optimization, NuxtJS Performance Tuning
+**Key Achievements:**
 
----
+- 🏗️ **Architected 10+ mission-critical systems** serving 20,000+ users including:
+  - **BAU eDiary** (Flutter mobile app for university operations)
+  - **Admission Systems** (MS, PhD, IADS processing 5,000+ applications annually)
+  - **Certificate Automation System** (Reduced processing time by 70%)
+  - **Central Lab Booking System** (Resource optimization platform)
+- 🔧 **Full-stack development** across web/mobile platforms using PHP/Laravel, Flutter, Vue.js
+- 🚀 **DevOps Implementation**: Containerized deployments with Docker, reducing server costs by 40%
+- 📊 **Data Systems**: Developed analytics dashboards for student data visualization
 
-### 🛠 Core Competencies
-
-#### Languages & Frameworks
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-#### Databases & DevOps
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Tech Stack:**  
+`Flutter` `Dart` `PHP` `Laravel` `Vue.js` `Docker` `REST API` `MySQL` `Oracle` `Tailwind CSS`
 
 ---
 
-### 📈 GitHub Stats
+### **Front-End Developer**
+
+[Funush Private Limited](https://www.funush.com) | Feb 2019 - Jul 2019  
+_Dhaka, Bangladesh (On-site)_
+
+**Key Contributions:**
+
+- 🎨 **Led frontend development** for CareerKi.com (social impact platform combating extremism)
+- 📱 **Built PWA** achieving 85+ Lighthouse score for mobile performance
+- 🤝 **Collaborated cross-functionally** to implement complex user flows with Vuex state management
+- ⚡ **Optimized** application load time by 35% through code splitting
+
+**Tech Stack:**  
+`Vue.js` `Vuex` `Vue Router` `PWA` `MongoDB` `NoSQL`
+
+---
+
+## 💻 Notable Projects
+
+### **BAU eDiary System** (Flutter Mobile App)
+
+- 📱 Campus management app with 5,000+ active users
+- 🔄 Real-time sync with university ERP systems
+- 🛠️ **Tech:** Flutter, Dart, REST API, Firebase
+
+### **Certificate Automation System**
+
+- ⚡ Reduced certificate processing from 3 days to 2 hours
+- 🖨️ Automated PDF generation with dynamic templates
+- 🛠️ **Tech:** Laravel, DomPDF, MySQL
+
+### **Admission Processing Systems** (MS/PhD/IADS)
+
+- 📊 Processed 15,000+ applications with 100% data integrity
+- 📑 Automated document verification workflows
+- 🛠️ **Tech:** CodeIgniter, jQuery, Oracle
+
+### **CareerKi PWA**
+
+- 🌍 Social impact platform for youth career guidance
+- 📈 Achieved 60% user retention improvement
+- 🛠️ **Tech:** Vue.js, MongoDB, Firebase Auth
+
+---
+
+## 🛠 Technical Arsenal
+
+**Frontend:**  
+`Vue.js` `Nuxt.js` `Flutter` `Dart` `Tailwind CSS` `Vuetify`
+
+**Backend:**  
+`PHP` `Laravel` `CodeIgniter` `Node.js` `REST API`
+
+**Blockchain:**  
+`Solidity` `Hardhat` `Ethers.js` `Web3.js`
+
+**DevOps & Databases:**  
+`Docker` `GitHub Actions` `MySQL` `Oracle` `MongoDB` `Firebase`
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darahat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darahat&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darahat&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🏆 Certifications & Achievements
+## 📫 Let's Build Something Amazing
 
-- [List any relevant certifications]
-- [Open source contributions]
-- [Hackathons or awards]
-
----
-
-### 💼 Professional Highlights
-
-- **Built [X] production applications** serving [Y] users
-- **Reduced system latency by [Z]%** through [specific optimization]
-- **Led [team size] developer team** in [project name]
-- **Implemented CI/CD pipeline** reducing deployment time by [time percentage]
-
----
-
-### � Currently Working On
-
-- [Project Name] - Brief description (include tech stack)
-- [Open Source Contribution] - What you're contributing to
-- [Learning Focus] - What new technology you're mastering
-
----
-
-### 📫 Let's Connect
-
-- **Portfolio**: [Your Portfolio Link]
-- **Email**: darahat42@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/darahat/
-- **Availability**: Open for remote opportunities
-
----
-
-> "I transform complex problems into elegant solutions through clean code and systematic thinking. When I'm not debugging, you'll find me exploring new technologies or contributing to open source."
+- 🔍 **Currently Exploring:** Advanced Web3 Development, Smart Contract Security
+- 💼 **Open To:** Remote opportunities, Contract work, Technical collaborations
+- 📧 **Reach Me:** darahat42@gmail.com | [LinkedIn](https://www.linkedin.com/in/darahat/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darahat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
