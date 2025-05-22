@@ -85,6 +85,7 @@ _Mymensingh, Bangladesh (On-site)_
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darahat&layout=compact&langs_count=8&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darahat&theme=radical" alt="GitHub Streak"/>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=darahat)](https://github.com/darahat/github-profile-trophy)
 
 ---
 
