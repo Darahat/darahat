@@ -85,12 +85,14 @@ _Mymensingh, Bangladesh (On-site)_
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darahat&layout=compact&langs_count=8&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darahat&theme=radical" alt="GitHub Streak"/>
 </div>
-<p align="left">
+<br>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=darahat&theme=radical&no-bg=true&margin-w=10" alt="darahat" />
   </a>
 </p>
-<p align="left">
+<br>
+<p align="center">
   <a href="https://wakatime.com/@452354bf-728e-4efd-865e-688915fdef0d">
     <img src="https://wakatime.com/badge/user/452354bf-728e-4efd-865e-688915fdef0d.svg" alt="darahat" />
   </a>
