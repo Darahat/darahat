@@ -38,6 +38,8 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-646464?style=for-the-badge&logo=ethersdotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-234250?style=for-the-badge&logo=hardhat&logoColor=white)
 
 ### Databases & DevOps
 
