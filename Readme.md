@@ -81,11 +81,6 @@ _Mymensingh, Bangladesh (On-site)_
 - 📱 Campus management app with 5,000+ active users
 - 🔄 Real-time sync with university ERP systems
 
-### **Certificate Automation System**
-
-- ⚡ Reduced certificate processing from 3 days to 2 hours
-- 🖨️ Automated PDF generation with dynamic templates
-
 ---
 
 ## 📈 GitHub Analytics
