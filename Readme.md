@@ -106,7 +106,7 @@ _Mymensingh, Bangladesh (On-site)_
 
 ## 📫 Let's Connect
 
-- 🔍 **Currently Exploring:** Web3 Development, Smart Contracts
+- 🔍 **Currently Exploring:** Web3 Development, Smart Contracts, AI Agent
 - 💼 **Open To:** Remote opportunities, Technical collaborations
 - 📧 **Reach Me:** darahat42@gmail.com
 
