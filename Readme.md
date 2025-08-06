@@ -109,7 +109,7 @@ _Mymensingh, Bangladesh (On-site)_
 - 🔍 **Currently Exploring:** Web3 Development, Smart Contracts, AI Agent
 - 💼 **Open To:** Remote opportunities, Technical collaborations
 - 📧 **Reach Me:** darahat42@gmail.com
-
+- **Portfolio:** https://darahat.dev
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darahat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
