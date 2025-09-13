@@ -73,13 +73,46 @@ _Mymensingh, Bangladesh (On-site)_
 `Flutter` `Dart` `PHP` `Laravel` `Vue.js` `Docker` `REST API` `Oracle` `MySQL`
 
 ---
+💻 Notable Open Source Projects
 
-## 💻 Notable Projects
+StakeHive (DeFi DApp)
 
-### **BAU eDiary System** (Flutter Mobile App)
+🌐 Open-source decentralized finance app for staking & yield farming
 
-- 📱 Campus management app with 5,000+ active users
-- 🔄 Real-time sync with university ERP systems
+🔒 Built with Solidity, Hardhat, Ethers.js, and Nuxt 3
+
+📊 Includes token minting, staking, and balance tracking
+
+🔗 Live Demo
+
+
+SensorLab (Flutter Mobile App)
+
+📡 Open-source multi-sensor environment monitoring app
+
+📱 Tracks noise, light, gyroscope, and magnetometer data
+
+🌍 10,000+ downloads on Google Play Store
+
+🔗 Google Play
+
+
+AI Form Builder (Flutter + AI)
+
+🤖 AI-powered form builder from natural language prompts
+
+🧩 Uses Riverpod, Hive, and OpenAI models
+
+📋 Supports dynamic fields, validation, and offline-first storage
+
+
+AI Chat Assistant (Flutter + AI)
+
+💬 Open-source AI chat app with Whisper & GPT models
+
+🎙️ Enables both text and voice interactions
+
+📂 Offline-first with local storage integration
 
 ---
 
